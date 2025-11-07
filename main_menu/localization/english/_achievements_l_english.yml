@@ -1,186 +1,186 @@
-﻿l_english:
- ACHIEVEMENTS_LABEL: "Achievements"
- ACHIEVEMENT_GROUP_TOOLTIP_TITLE: "Achievement Difficulty"
- ACHIEVEMENT_LOCKED_TEXT: "Achievement not yet gained in current campaign"
- ACHIEVEMENT_NOT_POSSIBLE_TITLE: "Achievement Unavailable"
+l_ukrainian:
+ ACHIEVEMENTS_LABEL: "Досягнення"
+ ACHIEVEMENT_GROUP_TOOLTIP_TITLE: "Складність досягнення"
+ ACHIEVEMENT_LOCKED_TEXT: "Досягнення ще не отримано в поточній кампанії"
+ ACHIEVEMENT_NOT_POSSIBLE_TITLE: "Досягнення недоступне"
  IRONMAN_LABEL: "Ironman"
- IRONMAN_SAVEGAME_NAME: "$COUNTRY$'s Ironman"
- IRONMAN_SAVELABEL_NAME: "Ironman Saved Game"
+ IRONMAN_SAVEGAME_NAME: "Ironman: $COUNTRY$"
+ IRONMAN_SAVELABEL_NAME: "Збережена гра Ironman"
  IRONMAN_PAUSE_MENU_TOOLTIP: "#T $IRONMAN_LABEL$"
- ENABLE_IRONMAN: "Enable"
- DISABLE_IRONMAN: "Disable"
- GAME_RULE_BLOCKS_ACHIEVEMENTS: "This game rule disables Achievements"
- GAME_BLOCKS_ACHIEVEMENTS: "This preset disables Achievements"
- GAME_ALLOW_ACHIEVEMENTS: "This preset allows Achievements"
- GAME_RULE_BLOCKS_IRONMAN: "This game rule disables Ironman"
- GAME_RULE_BLOCKS_ACHIEVEMENTS_IRONMAN: "This game rule disables both Achievements and Ironman"
- IRONMAN_ENABLED_NO_HEADER: "#P Enabled#!"
- IRONMAN_DISABLED_NO_HEADER: "#N Disabled#!"
- ACHIEVEMENTS_ENABLED_NO_HEADER: "#P Available#!"
- ACHIEVEMENTS_DISABLED_NO_HEADER: "#N Not Available#!"
- ACHIEVEMENTS_DISABLED_NO_HEADER_PLAY_BUTTON: "#N Not Available#!\n\nAchievements cannot currently be unlocked while playing the game.\n$ACHIEVEMENTS_EXPLANATION$"
- ACHIEVEMENTS_EXPLANATION: "#indent_newline:2 Achievements are only unlockable if:\n$EFFECT_LIST_BULLET$You play Single Player\n$EFFECT_LIST_BULLET$Ironman mode is enabled\n$EFFECT_LIST_BULLET$Game files that affect gameplay are unmodified, and you are not using any special launch options. (i.e. the checksum is unmodified)"
- ACHIEVEMENTS_ENABLED: "#T Achievements Available#!\nAchievements can currently be unlocked while playing the game."
- ACHIEVEMENTS_DISABLED: "#T Achievements Not Available#!\nAchievements cannot currently be unlocked while playing the game.\n\n$ACHIEVEMENTS_EXPLANATION$"
+ ENABLE_IRONMAN: "Увімкнути"
+ DISABLE_IRONMAN: "Вимкнути"
+ GAME_RULE_BLOCKS_ACHIEVEMENTS: "Це правило гри вимикає Досягнення"
+ GAME_BLOCKS_ACHIEVEMENTS: "Цей набір налаштувань вимикає Досягнення"
+ GAME_ALLOW_ACHIEVEMENTS: "Цей набір налаштувань дозволяє Досягнення"
+ GAME_RULE_BLOCKS_IRONMAN: "Це правило гри вимикає Ironman"
+ GAME_RULE_BLOCKS_ACHIEVEMENTS_IRONMAN: "Це правило гри вимикає і Досягнення, і Ironman"
+ IRONMAN_ENABLED_NO_HEADER: "#P Увімкнено#!"
+ IRONMAN_DISABLED_NO_HEADER: "#N Вимкнено#!"
+ ACHIEVEMENTS_ENABLED_NO_HEADER: "#P Доступні#!"
+ ACHIEVEMENTS_DISABLED_NO_HEADER: "#N Недоступні#!"
+ ACHIEVEMENTS_DISABLED_NO_HEADER_PLAY_BUTTON: "#N Недоступні#!\n\nЗараз неможливо розблокувати досягнення під час гри.\n$ACHIEVEMENTS_EXPLANATION$"
+ ACHIEVEMENTS_EXPLANATION: "#indent_newline:2 Досягнення можна розблокувати, лише якщо:\n$EFFECT_LIST_BULLET$Ви граєте в Одиночну гру\n$EFFECT_LIST_BULLET$Увімкнено режим Ironman\n$EFFECT_LIST_BULLET$Файли гри, що впливають на ігролад, не змінені, і ви не використовуєте спеціальних параметрів запуску. (тобто контрольна сума не змінена)"
+ ACHIEVEMENTS_ENABLED: "#T Досягнення доступні#!\nЗараз можна розблокувати досягнення під час гри."
+ ACHIEVEMENTS_DISABLED: "#T Досягнення недоступні#!\nЗараз неможливо розблокувати досягнення під час гри.\n\n$ACHIEVEMENTS_EXPLANATION$"
 
  # Achievements Very Easy
- ACHIEVEMENT_until_death_do_us_apart: "Till Death Do Us Part"
- ACHIEVEMENT_DESC_until_death_do_us_apart: "Secure a Royal Marriage with another country."
+ ACHIEVEMENT_until_death_do_us_apart: "Доки смерть не розлучить нас"
+ ACHIEVEMENT_DESC_until_death_do_us_apart: "Укласти Королівський шлюб з іншою країною."
 
- ACHIEVEMENT_that_is_mine: "That is Mine!"
- ACHIEVEMENT_DESC_that_is_mine: "Conquer a location."
+ ACHIEVEMENT_that_is_mine: "Це моє!"
+ ACHIEVEMENT_DESC_that_is_mine: "Завоювати локацію."
 
- ACHIEVEMENT_victorious: "Victorious!"
- ACHIEVEMENT_DESC_victorious: "Win a war."
+ ACHIEVEMENT_victorious: "Перемога!"
+ ACHIEVEMENT_DESC_victorious: "Виграти війну."
 
- ACHIEVEMENT_its_just_business: "It's just Business"
- ACHIEVEMENT_DESC_its_just_business: "Create a Market."
+ ACHIEVEMENT_its_just_business: "Це просто бізнес"
+ ACHIEVEMENT_DESC_its_just_business: "Створити Ринок."
 
- ACHIEVEMENT_all_in_favor: "All in Favor"
- ACHIEVEMENT_DESC_all_in_favor: "Pass a Parliament Issue."
+ ACHIEVEMENT_all_in_favor: "Усі за"
+ ACHIEVEMENT_DESC_all_in_favor: "Ухвалити Парламентське питання."
 
- ACHIEVEMENT_patron_of_the_arts: "Patron of the Arts"
- ACHIEVEMENT_DESC_patron_of_the_arts: "Invite an artist."
+ ACHIEVEMENT_patron_of_the_arts: "Меценат"
+ ACHIEVEMENT_DESC_patron_of_the_arts: "Запросити митця."
 
- ACHIEVEMENT_combined_arms: "Combined Arms"
- ACHIEVEMENT_DESC_combined_arms: "Have levies, an army, and mercenaries at the same time."
+ ACHIEVEMENT_combined_arms: "Об'єднані війська"
+ ACHIEVEMENT_DESC_combined_arms: "Мати одночасно ополчення, армію та найманців."
 
- ACHIEVEMENT_rule_of_law: "Rule of Law"
- ACHIEVEMENT_DESC_rule_of_law: "Change a policy."
-  
- ACHIEVEMENT_brothers_in_arms: "Brothers in Arms"
- ACHIEVEMENT_DESC_brothers_in_arms: "Be a secondary participant in a war where any allied participant has 90% warscore."
+ ACHIEVEMENT_rule_of_law: "Верховенство права"
+ ACHIEVEMENT_DESC_rule_of_law: "Змінити політику."
+ 
+ ACHIEVEMENT_brothers_in_arms: "Брати по зброї"
+ ACHIEVEMENT_DESC_brothers_in_arms: "Бути вторинним учасником війни, де будь-який союзний учасник має 90% воєнного рахунку."
 
- ACHIEVEMENT_city_of_cities: "City of Cities"
- ACHIEVEMENT_DESC_city_of_cities: "Own a core province with at least 100 development."
+ ACHIEVEMENT_city_of_cities: "Місто міст"
+ ACHIEVEMENT_DESC_city_of_cities: "Володіти національною провінцією зі щонайменше 100 розвитку."
 
- ACHIEVEMENT_cold_war: "Cold War"
- ACHIEVEMENT_DESC_cold_war: "Have a war without any ongoing conflict for 2 years."
+ ACHIEVEMENT_cold_war: "Холодна війна"
+ ACHIEVEMENT_DESC_cold_war: "Вести війну без жодного активного конфлікту протягом 2 років."
 
- ACHIEVEMENT_for_the_glory: "For the Glory"
- ACHIEVEMENT_DESC_for_the_glory: "Diplomatically annex a subject."
+ ACHIEVEMENT_for_the_glory: "Задля слави"
+ ACHIEVEMENT_DESC_for_the_glory: "Дипломатично анексувати підданого."
 
 
  # Achievements Easy
- ACHIEVEMENT_a_pile_of_gold: "A Pile of Gold"
- ACHIEVEMENT_DESC_a_pile_of_gold: "Own 35 locations which produce gold or silver."
+ ACHIEVEMENT_a_pile_of_gold: "Купа золота"
+ ACHIEVEMENT_DESC_a_pile_of_gold: "Володіти 35 локаціями, що виробляють золото або срібло."
 
- ACHIEVEMENT_at_every_continent: "At Every Continent"
- ACHIEVEMENT_DESC_at_every_continent: "Own one location on each continent."
+ ACHIEVEMENT_at_every_continent: "На кожному континенті"
+ ACHIEVEMENT_DESC_at_every_continent: "Володіти однією локацією на кожному континенті."
 
- ACHIEVEMENT_grand_coalition: "Grand Coalition"
- ACHIEVEMENT_DESC_grand_coalition: "Join a Coalition of more than 5 countries."
+ ACHIEVEMENT_grand_coalition: "Велика коаліція"
+ ACHIEVEMENT_DESC_grand_coalition: "Вступити до Коаліції з понад 5 країн."
 
- ACHIEVEMENT_it_belongs_in_a_museum: "It Belongs in a Museum!"
- ACHIEVEMENT_DESC_it_belongs_in_a_museum: "Gain a new Work of Art."
+ ACHIEVEMENT_it_belongs_in_a_museum: "Йому місце в музеї!"
+ ACHIEVEMENT_DESC_it_belongs_in_a_museum: "Отримати новий Витвір мистецтва."
 
- ACHIEVEMENT_a_cabinet_of_curiosities: "A Cabinet of Curiosities"
- ACHIEVEMENT_DESC_a_cabinet_of_curiosities: "Have a Cabinet Action of all three categories active at the same time."
+ ACHIEVEMENT_a_cabinet_of_curiosities: "Кабінет курйозів"
+ ACHIEVEMENT_DESC_a_cabinet_of_curiosities: "Мати активні Кабінетні дії всіх трьох категорій одночасно."
 
- ACHIEVEMENT_hearts_and_minds: "Hearts and Minds"
- ACHIEVEMENT_DESC_hearts_and_minds: "Improve the cultural opinion with another country."
+ ACHIEVEMENT_hearts_and_minds: "Серця та розум"
+ ACHIEVEMENT_DESC_hearts_and_minds: "Поліпшити культурні стосунки з іншою країною."
 
- ACHIEVEMENT_a_brave_new_world: "A Brave New World"
- ACHIEVEMENT_DESC_a_brave_new_world: "Discover the New World."
+ ACHIEVEMENT_a_brave_new_world: "Дивовижний новий світ"
+ ACHIEVEMENT_DESC_a_brave_new_world: "Відкрити Новий світ."
 
- ACHIEVEMENT_three_mountains: "The Three Mountains"
- ACHIEVEMENT_DESC_three_mountains: "Form Ryūkyū."
+ ACHIEVEMENT_three_mountains: "Три гори"
+ ACHIEVEMENT_DESC_three_mountains: "Сформувати Рюкю."
 
- ACHIEVEMENT_rule_britannia: "Rule Britannia"
- ACHIEVEMENT_DESC_rule_britannia: "Starting as England, form Great Britain and be the Naval Hegemon."
+ ACHIEVEMENT_rule_britannia: "Прав, Британіє"
+ ACHIEVEMENT_DESC_rule_britannia: "Почавши за Англію, сформувати Велику Британію та стати Морським гегемоном."
 
  ACHIEVEMENT_plus_ultra: "Plus Ultra"
- ACHIEVEMENT_DESC_plus_ultra: "As Castile or Spain, have presence in Iberia, Maghreb, the Caribbean, Mesoamerica and Peru."
+ ACHIEVEMENT_DESC_plus_ultra: "Граючи за Кастилію або Іспанію, мати присутність в Іберії, Магрибі, Карибах, Мезоамериці та Перу."
 
 
  # Achievements Medium
 
- ACHIEVEMENT_here_i_stand: "Here I Stand"
- ACHIEVEMENT_DESC_here_i_stand: "Convert to Lutheranism and unlock 3 Aspects of Faith."
+ ACHIEVEMENT_here_i_stand: "На цьому я стою"
+ ACHIEVEMENT_DESC_here_i_stand: "Перейти у лютеранство та розблокувати 3 Аспекти віри."
 
- ACHIEVEMENT_just_a_little_bit_more_patience: "Just a Little Bit More Patience"
- ACHIEVEMENT_DESC_just_a_little_bit_more_patience: "Play a campaign from 1337 until 1836."
+ ACHIEVEMENT_just_a_little_bit_more_patience: "Ще трішки терпіння"
+ ACHIEVEMENT_DESC_just_a_little_bit_more_patience: "Зіграти кампанію з 1337 до 1836 року."
 
- ACHIEVEMENT_potato_potato: "Potato Potato"
- ACHIEVEMENT_DESC_potato_potato: "Starting as a European country, produce potatoes."
+ ACHIEVEMENT_potato_potato: "Картопля-картопля"
+ ACHIEVEMENT_DESC_potato_potato: "Почавши за європейську країну, виробляти картоплю."
 
- ACHIEVEMENT_the_spice_must_flow: "The Spice Must Flow"
- ACHIEVEMENT_DESC_the_spice_must_flow: "Starting as a European country, have an active trade route with Cloves."
+ ACHIEVEMENT_the_spice_must_flow: "Прянощі повинні надходити"
+ ACHIEVEMENT_DESC_the_spice_must_flow: "Почавши за європейську країну, мати активний торговий шлях із Гвоздикою."
 
- ACHIEVEMENT_scientific_victory: "Scientific Victory"
- ACHIEVEMENT_DESC_scientific_victory: "Have at least 450 Advances researched."
+ ACHIEVEMENT_scientific_victory: "Наукова перемога"
+ ACHIEVEMENT_DESC_scientific_victory: "Мати щонайменше 450 досліджених пунктів прогресу."
 
- ACHIEVEMENT_cities_skyline: "Cities Skylines"
- ACHIEVEMENT_DESC_cities_skyline: "Have 200 total building levels in one location."
+ ACHIEVEMENT_cities_skyline: "Обрії міст"
+ ACHIEVEMENT_DESC_cities_skyline: "Мати 200 загальних рівнів будівель в одній локації."
 
- ACHIEVEMENT_moneytalks: "Moneytalks"
- ACHIEVEMENT_DESC_moneytalks: "Become the Economic Hegemon."
+ ACHIEVEMENT_moneytalks: "Гроші вирішують все"
+ ACHIEVEMENT_DESC_moneytalks: "Стати Економічним гегемоном."
 
- ACHIEVEMENT_doge_coins: "Doge Coins"
- ACHIEVEMENT_DESC_doge_coins: "Starting as Venice, become the Economic Hegemon."
+ ACHIEVEMENT_doge_coins: "Монети Дожа"
+ ACHIEVEMENT_DESC_doge_coins: "Почавши за Венецію, стати Економічним гегемоном."
 
  ACHIEVEMENT_je_maintiendrai: "Je Maintiendrai"
- ACHIEVEMENT_DESC_je_maintiendrai: "Form the Netherlands as a minor nation starting with Dutch culture."
+ ACHIEVEMENT_DESC_je_maintiendrai: "Сформувати Нідерланди, граючи за малу націю з голландською культурою."
 
- ACHIEVEMENT_lion_of_the_north: "Lion of the North"
- ACHIEVEMENT_DESC_lion_of_the_north: "Start as Sweden, ensure the victory of the Protestant League."
- unlock_lion_of_the_north_achievement_tt: "Be an active war participant of the Protestant side and achieve victory in the War of Religions Situation."
+ ACHIEVEMENT_lion_of_the_north: "Лев Півночі"
+ ACHIEVEMENT_DESC_lion_of_the_north: "Почати за Швецію, забезпечити перемогу Протестантської ліги."
+ unlock_lion_of_the_north_achievement_tt: "Бути активним учасником війни на боці протестантів та здобути перемогу в Ситуації 'Релігійні війни'."
 
- ACHIEVEMENT_the_navigator: "The Navigator"
- ACHIEVEMENT_DESC_the_navigator: "As Portugal, have presence in Africa, America, India and Indonesia before the Age of Reformation."
+ ACHIEVEMENT_the_navigator: "Мореплавець"
+ ACHIEVEMENT_DESC_the_navigator: "Граючи за Португалію, мати присутність в Африці, Америці, Індії та Індонезії до Епохи Реформації."
 
- ACHIEVEMENT_true_heir_of_timur: "True Heir of Timur"
- ACHIEVEMENT_DESC_true_heir_of_timur: "Having had Timur as the ruler of your country, form the Mughal Empire."
+ ACHIEVEMENT_true_heir_of_timur: "Справжній спадкоємець Тимура"
+ ACHIEVEMENT_DESC_true_heir_of_timur: "Маючи Тимура як правителя вашої країни, сформувати Імперію Великих Моголів."
 
- ACHIEVEMENT_city_of_mans_desire: "City of Man's Desire"
- ACHIEVEMENT_DESC_city_of_mans_desire: "Starting as the Ottomans, conquer Constantinople and end the Rise of the Turks situation as the strongest Beylik."
+ ACHIEVEMENT_city_of_mans_desire: "Місто людських бажань"
+ ACHIEVEMENT_DESC_city_of_mans_desire: "Почавши за Османів, завоювати Константинополь і завершити ситуацію 'Піднесення турків' як найсильніший Бейлік."
 
  ACHIEVEMENT_felix_austria: "Felix Austria"
- ACHIEVEMENT_DESC_felix_austria: "Starting as Austria, become Emperor of the HRE and be a Great Power."
+ ACHIEVEMENT_DESC_felix_austria: "Почавши за Австрію, стати імператором СРІ та бути Великою державою."
 
  ACHIEVEMENT_hongwu_di: "Hóngwǔ Dì"
- ACHIEVEMENT_DESC_hongwu_di: "As Míng, own the entirety of China and be the leader of the Middle Kingdom."
+ ACHIEVEMENT_DESC_hongwu_di: "Граючи за Мін, володіти всім Китаєм і бути лідером Серединного Царства."
 
- ACHIEVEMENT_break_the_yoke: "Break the Yoke"
- ACHIEVEMENT_DESC_break_the_yoke: "Break the Tatar Yoke as a Russian country."
+ ACHIEVEMENT_break_the_yoke: "Скинути ярмо"
+ ACHIEVEMENT_DESC_break_the_yoke: "Скинути Татарське ярмо, граючи за руську країну."
  
- ACHIEVEMENT_lingua_franca: "Lingua Franca"
- ACHIEVEMENT_DESC_lingua_franca: "As France, be the Cultural Hegemon."
+ ACHIEVEMENT_lingua_franca: "Лінгва франка"
+ ACHIEVEMENT_DESC_lingua_franca: "Граючи за Францію, стати Культурним гегемоном."
  
- ACHIEVEMENT_crusader_kings: "Crusader Kings"
- ACHIEVEMENT_DESC_crusader_kings: "Win a Crusade or a Jihād."
+ ACHIEVEMENT_crusader_kings: "Королі-хрестоносці"
+ ACHIEVEMENT_DESC_crusader_kings: "Виграти Хрестовий похід або Джихад."
 
 
  # Achievements Hard
- ACHIEVEMENT_respected: "Respected"
- ACHIEVEMENT_DESC_respected: "Have 100 Prestige, 100 Legitimacy, and 100 Stability."
+ ACHIEVEMENT_respected: "Шанований"
+ ACHIEVEMENT_DESC_respected: "Мати 100 Престижу, 100 Легітимності та 100 Стабільності."
 
  ACHIEVEMENT_letat_cest_moi: "L'État, C'est Moi"
- ACHIEVEMENT_DESC_letat_cest_moi: "Reach 100 Value for both Centralization and Absolutism."
+ ACHIEVEMENT_DESC_letat_cest_moi: "Досягти 100 очок Централізації та Абсолютизму."
 
- ACHIEVEMENT_manchurian_candidate: "A Manchurian Candidate"
- ACHIEVEMENT_DESC_manchurian_candidate: "Start as a country with the Jurchen culture, become Leader of the Middle Kingdom."
+ ACHIEVEMENT_manchurian_candidate: "Маньчжурський кандидат"
+ ACHIEVEMENT_DESC_manchurian_candidate: "Почати за країну з чжурчженською культурою, стати Лідером Серединного Царства."
 
- ACHIEVEMENT_house_of_hus: "House for Hus"
- ACHIEVEMENT_DESC_house_of_hus: "Starting as Bohemia, win the Hussite Wars situation as Hussite."
+ ACHIEVEMENT_house_of_hus: "Дім для Гуса"
+ ACHIEVEMENT_DESC_house_of_hus: "Почавши за Богемію, перемогти в ситуації 'Гуситські війни', граючи за гуситів."
 
- ACHIEVEMENT_what_a_great_guy: "What a Great Guy"
- ACHIEVEMENT_DESC_what_a_great_guy: "Be present on every subcontinent."
+ ACHIEVEMENT_what_a_great_guy: "Що за чудовий хлопець"
+ ACHIEVEMENT_DESC_what_a_great_guy: "Бути присутнім на кожному субконтиненті."
 
- ACHIEVEMENT_total_control: "Total Control"
- ACHIEVEMENT_DESC_total_control: "Have 20 Locations with 100% control."
+ ACHIEVEMENT_total_control: "Тотальний контроль"
+ ACHIEVEMENT_DESC_total_control: "Мати 20 Локацій зі 100% контролю."
 
- ACHIEVEMENT_be_in_all_the_clubs: "Be In All The Clubs"
- ACHIEVEMENT_DESC_be_in_all_the_clubs: "Belong to 6 International Organizations."
+ ACHIEVEMENT_be_in_all_the_clubs: "Бути в усіх клубах"
+ ACHIEVEMENT_DESC_be_in_all_the_clubs: "Належати до 6 Міжнародних організацій."
 
- ACHIEVEMENT_what_the_lord_giveth: "What the Lord Giveth"
- ACHIEVEMENT_DESC_what_the_lord_giveth: "Start with 8 privileges enacted for the Nobility, then remove all of them."
+ ACHIEVEMENT_what_the_lord_giveth: "Що Господь дає"
+ ACHIEVEMENT_DESC_what_the_lord_giveth: "Почати з 8 ухваленими привілеями для Шляхти, а потім скасувати їх усі."
 
- ACHIEVEMENT_welfare_state: "Welfare State"
- ACHIEVEMENT_DESC_welfare_state: "Have a market of your country with a full stockpile of at least 20,000 food."
+ ACHIEVEMENT_welfare_state: "Держава добробуту"
+ ACHIEVEMENT_DESC_welfare_state: "Мати ринок у вашій країні з повним запасом щонайменше 20 000 їжі."
 
- ACHIEVEMENT_five_hundred_miles: "500 Miles"
- ACHIEVEMENT_DESC_five_hundred_miles: "Own at least 100 locations with 5 roads each."
+ ACHIEVEMENT_five_hundred_miles: "500 миль"
+ ACHIEVEMENT_DESC_five_hundred_miles: "Володіти щонайменше 100 локаціями, кожна з яких має 5 доріг."
 
 
  # Achievements Very Hard
@@ -190,16 +190,16 @@
 # ACHIEVEMENT_DESC_name: ""
 
  #Achievement Groups
- ACHIEVEMENT_GROUP_very_easy_achievements: "Very Easy"
- ACHIEVEMENT_GROUP_easy_achievements: "Easy"
- ACHIEVEMENT_GROUP_medium_achievements: "Medium"
- ACHIEVEMENT_GROUP_hard_achievements: "Hard"
- ACHIEVEMENT_GROUP_very_hard_achievements: "Very Hard"
- PLAY_BUTTON_IRONMAN_MODE_TOOLTIP: "Ironman Mode\n[SelectLocalization(GameIsIronman, 'IRONMAN_ENABLED_NO_HEADER', 'IRONMAN_DISABLED_NO_HEADER')]"
- PLAY_BUTTON_ACHIEVEMENTS_TOOLTIP: "Achievements [SelectLocalization(CanGetAchievements, 'ACHIEVEMENTS_ENABLED_NO_HEADER', 'ACHIEVEMENTS_DISABLED_NO_HEADER_PLAY_BUTTON')]"
+ ACHIEVEMENT_GROUP_very_easy_achievements: "Дуже легкі"
+ ACHIEVEMENT_GROUP_easy_achievements: "Легкі"
+ ACHIEVEMENT_GROUP_medium_achievements: "Середні"
+ ACHIEVEMENT_GROUP_hard_achievements: "Складні"
+ ACHIEVEMENT_GROUP_very_hard_achievements: "Дуже складні"
+ PLAY_BUTTON_IRONMAN_MODE_TOOLTIP: "Режим Ironman\n[SelectLocalization(GameIsIronman, 'IRONMAN_ENABLED_NO_HEADER', 'IRONMAN_DISABLED_NO_HEADER')]"
+ PLAY_BUTTON_ACHIEVEMENTS_TOOLTIP: "Досягнення [SelectLocalization(CanGetAchievements, 'ACHIEVEMENTS_ENABLED_NO_HEADER', 'ACHIEVEMENTS_DISABLED_NO_HEADER_PLAY_BUTTON')]"
 
 #Tooltips
 
- has_emerged_victorious_during_rise_of_ottomans_situation_tt: "We emerged victorious during the [ShowSituationName('rise_of_the_ottomans')] [situation|e] as the strongest Beylik"
- had_timur_as_past_ruler_tt: "One of our previous [rulers|e] is [GetCharacter('chg_timur_lame_borjigin').GetName]"
- hussites_won_hussite_wars_situation_tt: "[ShowReligionName('hussite')] was victorious during the [ShowSituationName('hussite_wars')] [situation|e]"
+ has_emerged_victorious_during_rise_of_ottomans_situation_tt: "Ми вийшли переможцями під час [Concept('situation', 'ситуації')|e] #TOOLTIP:SITUATION,rise_of_the_ottomans,X #L Піднесення турків #!#! як найсильніший Бейлік"
+ had_timur_as_past_ruler_tt: "Одним з наших попередніх [Concept('rulers', 'правителів')|e] був [GetCharacter('chg_timur_lame_borjigin').GetName]"
+ hussites_won_hussite_wars_situation_tt: "#TOOLTIP:RELIGION,hussite,X #L Гусити #!#! здобули перемогу в [Concept('situation', 'ситуації')|e] #TOOLTIP:SITUATION,hussite_wars,X #L Гуситські війни #!#!"
